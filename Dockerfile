@@ -1,4 +1,4 @@
-FROM anup:v1
+FROM rozbo/anup:v1
 
 # By default, allow unlimited file sizes, modify it to limit the file sizes
 # To have a maximum of 1 MB (Nginx's default) change the line to:
